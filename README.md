@@ -1,3 +1,6 @@
+# Ligger på repository:
+(https://github.com/MagnusThiemer/react-smartlight)
+
 # Praktisk web - smartlights
 
 ![](https://github.com/rts-cmk-opgaver/praktikperiode-smartlights/blob/main/ctrlpanel.png)
